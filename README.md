@@ -1,2 +1,2 @@
 # hello
-iam Senior Developer and IT Manager 
+Iam Senior Developer and IT Manager 
